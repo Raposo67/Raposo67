@@ -1,6 +1,6 @@
 #### Raposo | Hello Word!
 ##### fiz esse perfil no Github para colocar Projetos,scripts, malweres,progamas que resolvem erros em sistemas operacionais, alem do mais, fiz esse perfil para me distrair, me divertir e expressar ideias em linhas de código!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raposo67&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raposo67&show_icons=true&theme=dark)            
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@raposo6359?si=lgpEtJmAJNik9xzl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raposofern?igsh=M3luZmU3ZHBpOWtp)
 
